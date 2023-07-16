@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nguyen Trong Dung
+Hi, I'm Nguyen Trong Dung, a third-year student at Ho Chi Minh City University of Technology And Education (HCMUTE)
 
 
 ## 🌐 Socials:
