@@ -22,9 +22,6 @@ Hi, I'm Nguyen Trong Dung, a third-year student at Ho Chi Minh City University o
   </tr>
 </table>
 
-![](https://github-readme-stats.vercel.app/api?username=NgTrDung&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NgTrDung&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NgTrDung&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=NgTrDung&icon=0&color=0)](https://visitcount.itsvg.in)
 
