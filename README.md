@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nguyen Trong Dung, a final-year student at Ho Chi Minh City University of Technology And Education (HCMUTE)
+Hi, I'm Nguyen Trong Dung, a recent graduate in Data Engineering from Ho Chi Minh City University of Technology and Education (HCMUTE), currently pursuing a career in Data Science, Artificial Intelligence, and Machine Learning.
 
 
 ## 🌐 Socials:
